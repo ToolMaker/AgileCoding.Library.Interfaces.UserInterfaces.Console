@@ -1,5 +1,6 @@
 ﻿namespace AgileCoding.Library.Interfaces.UserInterfaces.Console
 {
+    using AgileCoding.Library.Interfaces.Logging;
     using System;
     using System.Collections.Generic;
 
@@ -13,7 +14,7 @@
 
         StringComparison InterfaceCaseComparrer { get; set; }
 
-        void DoWork();
+        void DoWork(ILogger logger);
 
         void ProcessCommandLineArgs(string[] args);
 
