@@ -1,4 +1,4 @@
-﻿namespace AgileCoding.Library.UserInterfaces.Console.Interfaces
+﻿namespace AgileCoding.Library.Interfaces.UserInterfaces.Console
 {
     using AgileCoding.Library.Interfaces.Logging;
 

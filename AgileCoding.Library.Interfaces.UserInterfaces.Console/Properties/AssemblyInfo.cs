@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("AgileCoding.Library.UserInterfaces.Console.Interfaces")]
+[assembly: AssemblyTitle("AgileCoding.Library.Interfaces.UserInterfaces.Console")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("AgileCoding.Library.UserInterfaces.Console.Interfaces")]
+[assembly: AssemblyProduct("AgileCoding.Library.Interfaces.UserInterfaces.Console")]
 [assembly: AssemblyCopyright("Copyright ©  2021")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]

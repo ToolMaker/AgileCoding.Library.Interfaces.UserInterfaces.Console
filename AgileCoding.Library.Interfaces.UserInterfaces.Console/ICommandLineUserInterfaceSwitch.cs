@@ -1,4 +1,4 @@
-﻿namespace AgileCoding.Library.UserInterfaces.Console.Interfaces
+﻿namespace AgileCoding.Library.Interfaces.UserInterfaces.Console
 {
     using System.Collections.Generic;
 
