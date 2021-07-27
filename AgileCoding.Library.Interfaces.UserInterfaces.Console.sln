@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31019.35
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AgileCoding.Library.UserInterfaces.Console.Interfaces", "AgileCoding.Library.Interfaces.UserInterfaces.Console\AgileCoding.Library.UserInterfaces.Console.Interfaces.csproj", "{9CE61DD6-CBF0-44E0-886F-FF3F3A40FC6E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9CE61DD6-CBF0-44E0-886F-FF3F3A40FC6E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9CE61DD6-CBF0-44E0-886F-FF3F3A40FC6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9CE61DD6-CBF0-44E0-886F-FF3F3A40FC6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9CE61DD6-CBF0-44E0-886F-FF3F3A40FC6E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C6DA475F-E2A2-443F-86E6-C63B01F5610A}
+	EndGlobalSection
+EndGlobal
