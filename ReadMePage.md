@@ -2,7 +2,5 @@
 
 ###This is a standardized list of Interfaces to use across domains
 
-1.	IServiceProxy - Represents a service proxy
-2.	IServiceRequest - Represents a service request
-3.	IServiceResponse - Represents service tresponse
-4.	ILogger - Represents a logger
+1.	ICommandLineInterfaceBuilder - Builder pattern to initiate building of all IUserInterfaceBuilder commandline interfaces
+9.	IUserInterfaceBuilder - Builder pattern for a single interface
