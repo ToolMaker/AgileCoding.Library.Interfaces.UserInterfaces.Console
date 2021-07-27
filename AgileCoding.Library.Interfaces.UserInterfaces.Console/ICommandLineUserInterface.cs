@@ -14,7 +14,7 @@
 
         StringComparison InterfaceCaseComparrer { get; set; }
 
-        void DoWork(ILogger logger);
+        Action<ILogger> DoWork { get; set; }
 
         void ProcessCommandLineArgs(string[] args);
 
